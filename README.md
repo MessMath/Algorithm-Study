@@ -1,5 +1,3 @@
-# README
-
 # ✅ 스터디 방식
 1. 일주일 동안 공부할 내용(카테고리) 정하기
 2. [바킹독 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md) 내용 중 해당 카테고리 문제에서 체크된 문제 풀기
