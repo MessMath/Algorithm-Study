@@ -5,8 +5,9 @@
 2. [바킹독 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md) 내용 중 해당 카테고리 문제에서 체크된 문제 풀기
 3. 각자 월-목 발표할 문제 1개씩, 총 4개 준비해서 금요일에 각자 1문제씩 발표 & 피드백 (대면으로 진행)
 
+|<img src = "https://github.com/user-attachments/assets/1bb96197-3936-492c-939a-78c5e8a4aae9" width="150" height="150"/>|<img src = "https://github.com/user-attachments/assets/442e7881-0dc1-4568-a0d7-d1b3c2f8801c" width="150" height="150"/>|<img src = "https://github.com/user-attachments/assets/479391b1-afce-45cb-976f-2af6710dad47" width="150" height="150"/>|<img src = "https://github.com/user-attachments/assets/1a97846d-4698-4278-9cb5-67bfaf00beb8" width="150" height="150"/>|
+| :---: | :---: | :---: | :---: |
 | 배정훈 | 서현재 | 윤지연 | 정수진 |
-| --- | --- | --- | --- |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) |
 
 ### ⏰ 타임 테이블
