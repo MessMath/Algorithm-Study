@@ -98,7 +98,7 @@
 
 | **주차** | **기간** | **대분류(풀이 폴더)** | **소분류(문제집)** | **진행 여부** |
 | --- | --- | --- | --- | --- |
-| 1 | 2024.10.28 - 2024.11.01 | 자료구조 | [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)<br> [스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)<br> [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)<br> [트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md) | 🔥진행중 |
+| 1 | 2024.10.28 - 2024.11.01 | 자료구조 | [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md) & [연결리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)<br> [스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)<br> [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)<br> [트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md) | 🔥진행중 |
 | 2 | 2024.11.04 - 2024.11.08 | 자료구조 | 힙 | 💤시작전 |
 | 3 | 2024.11.11 - 2024.11.15 |  |  |  |
 | 4 | 2024.11.18 - 2024.11.22 |  |  |  |
