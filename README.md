@@ -43,14 +43,38 @@
 ### ✅ **Commit 규칙**
 
 1. **문제 풀이한 파일 업로드**
-    - `[문제 출처(플랫폼)] 문제번호 / 난이도 / 이름`
-        - ex) [BOJ] 2577 / B2 / SHJ
+    - `[문제 출처(플랫폼)] 문제번호_문제이름_난이도_이름`
+        - ex) [BOJ] 2577_숫자의개수_B2_SHJ
 2. **문제 풀이 파일(코드) 수정**
     - `[문제 출처(플랫폼)] 문제번호 / 난이도 / 이름 (UPDATE)`
         - ex) [BOJ] 2577 / B2 / SHJ (UPDATE)
 3. **파일 구조, 리드미 수정**
     - `[ADD] 폴더 추가`
     - `[UPDATE] ~파일 수정, 폴더명 수정`
+  
+### ✅ **PR 규칙**
+
+- **PR제목**: `N주차_이니셜`
+	- ex) 1주차_SHJ
+- 3명 승인해야 merge가능
+- Assignee에 자신(문제 푼 사람) 태그
+- Reviewrs에 자신 제외 3명 태그
+- 월-목은 커밋만 금요일에 모여서 PR보내고 확인 후 merge
+- 라벨 중 언어는 파일 확장자로 자동 등록
+- 최초 PR은 First로 라벨링, 리뷰 받고 수정하면 Solved로 라벨링
+- ReadMe파일 수정은 EditReadMe 브랜치에서 진행 후 바로 merge
+
+### ✅ **Labels**
+
+**언어(자동)**
+- **`cpp`**
+- **`csharp`**
+- **`python`**
+
+**상태**
+- **`First`**: 최초 제출
+- **`Solved`**: 리뷰 후 수정한 코드 최종 제출
+
 
 ### ✅ 레포지토리 구조
 
@@ -74,7 +98,7 @@
 
 | **주차** | **기간** | **대분류(풀이 폴더)** | **소분류(문제집)** | **진행 여부** |
 | --- | --- | --- | --- | --- |
-| 1 | 2024.10.28 - 2024.11.01 | 자료구조 | [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)<br> [스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)<br> [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)<br> [트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md) | 🔥진행중 |
+| 1 | 2024.10.28 - 2024.11.01 | 자료구조 | [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md) & [연결리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)<br> [스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)<br> [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)<br> [트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md) | 🔥진행중 |
 | 2 | 2024.11.04 - 2024.11.08 | 자료구조 | 힙 | 💤시작전 |
 | 3 | 2024.11.11 - 2024.11.15 |  |  |  |
 | 4 | 2024.11.18 - 2024.11.22 |  |  |  |
