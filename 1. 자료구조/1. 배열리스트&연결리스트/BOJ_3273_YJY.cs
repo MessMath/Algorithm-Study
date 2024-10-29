@@ -10,6 +10,7 @@ class Program
         string numString = Console.ReadLine()!;
         
         int i = 0;
+        foreach(string num in numString.Split(" "))
         {
             numbers.Add(int.Parse(num));
         }
