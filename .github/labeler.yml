@@ -1,9 +1,0 @@
-python:
-- changed-files:
--any_glob-to-any-file: '**/*.py'
-cpp:
-- changed-files:
--any_glob-to-any-file: '**/*.cpp'
-chsarp:
-- changed-files:
--any_glob-to-any-file: '**/*.csharp'
