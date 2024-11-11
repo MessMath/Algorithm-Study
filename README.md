@@ -98,12 +98,12 @@
 
 | **주차** | **기간** | **대분류(풀이 폴더)** | **소분류(문제집)** | **진행 여부** |
 | --- | --- | --- | --- | --- |
-| 1 | 2024.10.28 - 2024.11.01 | 자료구조 | [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md) & [연결리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)<br> [스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)<br> [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)<br> [트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md) | 🔥진행중 |
-| 2 | 2024.11.04 - 2024.11.08 | 자료구조 | 힙 | 💤시작전 |
-| 3 | 2024.11.11 - 2024.11.15 |  |  |  |
-| 4 | 2024.11.18 - 2024.11.22 |  |  |  |
-| 5 | 2024.11.25 - 2024.11.29 |  |  |  |
-| 6 | 2024.12.02 - 2024.12.06 |  |  |  |
-| 7 | 2024.12.09 - 2024.12.13 |  |  |  |
-| 8 | 2024.12.16 - 2024.12.20 |  |  |  |
-| 9 | 2024.12.23 - 2024.12.27 |  |  |  |
+| 1 | 2024.10.28 - 2024.11.01 | 자료구조 | [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md) & [연결리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)<br> [스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)<br> [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)<br> [트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md) | ✅완료 |
+| 2 | 2024.11.04 - 2024.11.08 | 자료구조<br> 알고리즘 | [힙(우선순위큐)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x17.md)<br> [맵(해시)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x15.md)<br> [그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md) | ✅완료 |
+| 3 | 2024.11.11 - 2024.11.15 | 알고리즘 | [그래프](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x18.md)<br> [BFS, DFS](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x09.md) | 🔥진행중 |
+| 4 | 2024.11.18 - 2024.11.22 | 알고리즘 | [완전탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)<br> [이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)<br> [재귀](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0B.md)<br> | 💤시작전 |
+| 5 | 2024.11.25 - 2024.11.29 | 알고리즘 | [정렬1](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0E.md)<br> [정렬2](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0F.md)<br> [위상정렬](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1A.md) | 💤시작전 |
+| 6 | 2024.12.02 - 2024.12.06 | 알고리즘 | [DP](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md) | 💤시작전 |
+| 7 | 2024.12.09 - 2024.12.13 | 알고리즘 | [투포인터](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x14.md) | 💤시작전 |
+| 8 | 2024.12.16 - 2024.12.20 | 알고리즘 | [문자열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20A.md)<br> [KMP](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1E.md) | 💤시작전 |
+| 9 | 2024.12.23 - 2024.12.27 | 알고리즘 | [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)<br> [수열과 쿼리](https://www.acmicpc.net/workbook/view/914) | 💤시작전 |
